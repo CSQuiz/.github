@@ -1,5 +1,6 @@
 # CS 지식 퀴즈
 
+
 ### 📚STACKS
 **FRONTEND**  
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -22,6 +23,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/git-000000?style=for-the-badge&logo=notion&logoColor=white">
 
+---
 
 ### 🐙MEMBER🐹
 |<image src="https://github.com/user-attachments/assets/07845cb5-97ea-454e-b79e-3bab41e8c71f" width="80">|<img src="https://github.com/user-attachments/assets/ab400a82-cc18-439a-969d-f9818720975b" width="80">|
