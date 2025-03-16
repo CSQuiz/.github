@@ -1,5 +1,21 @@
 # CS 지식 퀴즈
+### 🎬화면 구성
+- 초기 시작
+  
+    https://github.com/user-attachments/assets/ce1ff58c-d03b-4f2d-8467-91994d91b163
 
+- 게임 진행
+
+    https://github.com/user-attachments/assets/015ffab6-bcc8-4b94-9371-f60e23a90d2a
+
+- 타이머 종료
+
+    https://github.com/user-attachments/assets/d13f44de-2549-4b4e-a29b-6b693ff09d52
+- 최종 스코어 및 전체 순위 확인
+  
+    https://github.com/user-attachments/assets/6f1c96c8-1ff4-4513-b140-e6c1750100d1
+
+---
 
 ### 📚STACKS
 **FRONTEND**  
