@@ -68,8 +68,8 @@
 ### 🌠 전체 시스템 아키텍처
 ![image](https://github.com/user-attachments/assets/cc41e3d4-ca44-4eae-9124-6440cffeec1c)
 
-- 사용자(User)가 **React + Vite**로 개발된 프론트엔드에 접근
-- 프론트엔드가 **Caddy(Reverse Proxy & TLS)**를 통해 **Spring Boot 백엔드 API** 요청
+- **사용자**(User)가 **React + Vite**로 개발된 프론트엔드에 접근
+- 프론트엔드가 **Caddy**(Reverse Proxy & TLS)를 통해 **Spring Boot 백엔드 API** 요청
 - 백엔드는 **MySQL**에서 데이터를 조회/저장하고, **Redis**를 캐싱 레이어로 활용
 - 모든 백엔드 관련 서비스(Caddy, Spring Boot, MySQL, Redis)는 **AWS EC2** 내에서 실행
 
