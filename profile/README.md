@@ -65,6 +65,15 @@
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
 ---
+### 🌠 전체 시스템 아키텍처
+![image](https://github.com/user-attachments/assets/cc41e3d4-ca44-4eae-9124-6440cffeec1c)
+
+- 사용자(User)가 **React + Vite**로 개발된 프론트엔드에 접근
+- 프론트엔드가 **Caddy(Reverse Proxy & TLS)**를 통해 **Spring Boot 백엔드 API** 요청
+- 백엔드는 **MySQL**에서 데이터를 조회/저장하고, **Redis**를 캐싱 레이어로 활용
+- 모든 백엔드 관련 서비스(Caddy, Spring Boot, MySQL, Redis)는 **AWS EC2** 내에서 실행
+
+---
 
 ### 🐙MEMBER🐹
 |<image src="https://github.com/user-attachments/assets/07845cb5-97ea-454e-b79e-3bab41e8c71f" width="80">|<img src="https://github.com/user-attachments/assets/ab400a82-cc18-439a-969d-f9818720975b" width="80">|
